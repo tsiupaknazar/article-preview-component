@@ -1,3 +1,5 @@
+import './style.scss';
+
 document.addEventListener('DOMContentLoaded', () => {
     const shareButton = document.getElementById('shareButton');
     const tooltip = document.getElementById('tooltip');
